@@ -1,0 +1,30 @@
+{
+  "name": "fcmwn",
+  "version": "1.0.0",
+  "description": "Firebase Cloud Messaging With Node Js",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hitesh0413/FCMWN.git"
+  },
+  "keywords": [
+    "firebase",
+    "cloud",
+    "messaging"
+  ],
+  "author": "Hitesh Aloney",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hitesh0413/FCMWN/issues"
+  },
+  "homepage": "https://github.com/Hitesh0413/FCMWN#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "firebase-admin": "^8.9.2",
+    "hbs": "^4.1.0",
+    "request": "^2.88.2"
+  }
+}

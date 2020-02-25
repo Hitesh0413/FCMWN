@@ -1,0 +1,3 @@
+node_modules/
+firebase_console/service-account.json
+firebase_console/client-account.json
