@@ -24,7 +24,6 @@
   "dependencies": {
     "express": "^4.17.1",
     "firebase-admin": "^8.9.2",
-    "hbs": "^4.1.0",
     "request": "^2.88.2"
   }
 }
