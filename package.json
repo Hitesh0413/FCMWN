@@ -2,9 +2,9 @@
   "name": "fcmwn",
   "version": "1.0.0",
   "description": "Firebase Cloud Messaging With Node Js",
-  "main": "app.js",
+  "main": "src/app.js",
   "scripts": {
-    "dev": "node app.js"
+    "start": "node src/app.js"
   },
   "repository": {
     "type": "git",
